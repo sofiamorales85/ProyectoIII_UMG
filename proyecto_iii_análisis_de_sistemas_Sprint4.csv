@@ -1,0 +1,77 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived,Start Date,Due Complete,Criterios de aceptaci�n,
+64795ec643f5cd11f041383f,Agregar combos de negocios- FrontEnd,https://trello.com/c/kh9Y72la/27-agregar-combos-de-negocios-frontend,"Esta opci�nn se encuentra disponible dentro de cada opci�nn , opciones de vista de combos para cada referencia:
+
+- Restaurantes
+- Bares
+- Hoteles
+- Transportes
+- Tiendas",,"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-31T18:00:00.000Z,0,,0,0,0,0,2023-06-02T23:43:14.505Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-30T00:00:00.000Z,1,Esta tarea debe cumplir con las imagenes de los combos en cada referencia.,
+64792f56496fc941d47c6960,Documentación SCRUM - Semana 4,https://trello.com/c/2evYiFCm/26-documentaci%C3%B3n-scrum-semana-4,"Agregar documentaci�n de planeamiento de la documentaci�n.
+
+- Plan de tareas
+- Deily meetings
+- Sprint backlog",,jmoralesl15,2023-06-02T18:00:00.000Z,0,,0,0,0,0,2023-06-02T04:46:12.037Z,645fa494dbc011910f6ded96,Doing,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-29T00:00:00.000Z,,,
+64792e472578b097c58e5dac,Agregar menú de opciones - FrontEnd,https://trello.com/c/cZZ22OzD/24-agregar-men%C3%BA-de-opciones-frontend,Agrega menú para navegación entre paginas,,"danielsicaja, mariofernandocastanedaperez",2023-06-01T18:00:00.000Z,0,,0,0,0,0,2023-06-02T23:43:17.569Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-31T00:00:00.000Z,1,Esta tarea muestra las opciones para ver todas las paginas diponibles,
+647565e396da859b7a0dd83a,Daily scrum meeting 29-05-2023,https://trello.com/c/RLtBQrWM/22-daily-scrum-meeting-29-05-2023,"Actualizaci�n de temas
+
+- Agregar negocio
+- Eliminar negocio",,"danielsicaja, jmoralesl15, manuelalejandrosazolinares, mariofernandocastanedaperez, pvasquezc",2023-05-29T18:00:00.000Z,1,https://trello.com/1/cards/647565e396da859b7a0dd83a/attachments/647565f3f29046ea8185f25e/download/Scrum_daily_meeting_29052023.png,0,0,0,0,2023-06-01T23:55:43.792Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-29T00:00:00.000Z,1,,
+646d7f6b0fbe147d933ee401,Daily scrum meeting 23-05-2023,https://trello.com/c/tr1zrIBb/21-daily-scrum-meeting-23-05-2023,"Scrum meeting , actualización de temas, front y back end",,"danielsicaja, jmoralesl15, manuelalejandrosazolinares, mariofernandocastanedaperez, pvasquezc",2023-05-22T18:00:00.000Z,1,https://trello.com/1/cards/646d7f6b0fbe147d933ee401/attachments/646d7f7b052bb977c348f02f/download/ScrumMeeting-23-05-2023.PNG,0,0,0,0,2023-06-01T23:02:02.430Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-22T00:00:00.000Z,1,,
+646c1761eae169fdc7d19f18,Registrar usuario - Back-End,https://trello.com/c/w35b09PI/20-registrar-usuario-back-end,"Crear la conexión a la base de datos para registrar usuario:
+
+- Conexion a Firebase
+- Logica java Script para crear usuario",,jmoralesl15,2023-05-12T01:31:00.000Z,2,"https://trello.com/1/cards/646c1761eae169fdc7d19f18/attachments/646c20b923e357b2df107378/download/RegistroFirebase.jpeg, https://trello.com/1/cards/646c1761eae169fdc7d19f18/attachments/646c20e4db66a968ba499271/download/FirebaseRegistro.PNG",0,0,0,0,2023-05-29T23:09:57.878Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-10T12:00:00.000Z,1,Esta tarea debe cumplir la creación de usuarios en la base de datos en linea de firebase,
+646a3a6cf7fd99ecc9f02242,Documentación SCRUM - Semana 2,https://trello.com/c/1TMITuOq/19-documentaci%C3%B3n-scrum-semana-2,"Agregar documentación de planeamiento de la documentación.
+- Plan de tareas
+- Deily meetings
+- Sprint backlog",,jmoralesl15,2023-05-21T01:30:00.000Z,3,"https://trello.com/1/cards/646a3a6cf7fd99ecc9f02242/attachments/64768da86112d1dfdbc6534d/download/ProductBackLog.xlsx, https://trello.com/1/cards/646a3a6cf7fd99ecc9f02242/attachments/64768daa690f7207319f5b82/download/Documentaci%C3%B3nScrum-SPRINT-2.doc, https://trello.com/1/cards/646a3a6cf7fd99ecc9f02242/attachments/64768def2bb1f2514cf45006/download/proyecto_iii_an%C3%A1lisis_de_sistemas_Sprint2.xls",0,0,0,0,2023-05-30T23:59:51.197Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-15T14:00:00.000Z,1,,
+646a39d86f3e28ae66bab507,Documentación SCRUM - Semana 1,https://trello.com/c/xLV5ygsv/18-documentaci%C3%B3n-scrum-semana-1,"Agregar documentación de planeamiento de la documentación.
+
+- Plan de tareas
+- Deily meetings
+- Sprint backlog",,jmoralesl15,2023-05-14T02:00:00.000Z,2,"https://trello.com/1/cards/646a39d86f3e28ae66bab507/attachments/64768e42136b52fff7f8a542/download/Documentaci%C3%B3nScrum-SPRINT-1.doc, https://trello.com/1/cards/646a39d86f3e28ae66bab507/attachments/64768e499b16b50d572f81bd/download/proyecto_iii_an%C3%A1lisis_de_sistemas_Sprint1.xls",0,0,0,0,2023-05-31T00:01:13.317Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-12T14:00:00.000Z,1,,
+646a39a2c041584afe864f63,Documentación SCRUM - Semana 1,https://trello.com/c/WSn3ObxJ/17-documentaci%C3%B3n-scrum-semana-1,"Documentar sprint I , revisar tareas realiadas durante el sprint",,jmoralesl15,2023-05-15T18:00:00.000Z,0,,0,0,0,0,2023-05-29T21:32:35.683Z,645fa494dbc011910f6ded96,Doing,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,TRUE,2023-05-09T00:00:00.000Z,,Crear plantilla de documentación de sprint I,
+6467b9c213499cdcca47eeae,Daily scrum meeting - 19-05-2023,https://trello.com/c/2JJv9FXq/16-daily-scrum-meeting-19-05-2023,"Revisión de avances , bloque antes y próximos pasos a seguir.",,"danielsicaja, jmoralesl15, manuelalejandrosazolinares, mariofernandocastanedaperez, pvasquezc",2023-05-20T05:00:00.000Z,1,https://trello.com/1/cards/6467b9c213499cdcca47eeae/attachments/64684d623b2da0bf2c2ed51a/download/Imagen_de_WhatsApp_2023-05-19_a_las_22.11.05.jpg,0,0,0,0,2023-05-30T22:39:04.578Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-19T14:00:00.000Z,1,,
+6467b9357cac78c17de81a80,Página de contacto - Front-End,https://trello.com/c/jz7TvFBI/15-p%C3%A1gina-de-contacto-front-end,"Crear la pagina de contacto , esta pagina muestra los campos para contactarse con los administradores de la aplicación.",Prioridad 3 (lime_light),"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-17T05:59:00.000Z,2,"https://trello.com/1/cards/6467b9357cac78c17de81a80/attachments/646851a4097d05d989837aad/download/msedge_O1qsIj6wwd.png, https://trello.com/1/cards/6467b9357cac78c17de81a80/attachments/64685252361984e760ec1100/download/msedge_DnmxnNZTQd.png",0,0,0,0,2023-05-30T22:31:33.991Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-15T14:00:00.000Z,1,Esta pantalla debe agregar información para contactarse con los administradores.,
+6466676aef586c88f3bc957a,Documentación SCRUM - Semana 3,https://trello.com/c/qLQFRYLx/14-documentaci%C3%B3n-scrum-semana-3,"Agregar documentación de planeamiento de la documentación.
+
+- Plan de tareas
+- Deily meetings
+- Sprint backlog",,jmoralesl15,2023-05-27T18:00:00.000Z,3,"https://trello.com/1/cards/6466676aef586c88f3bc957a/attachments/64792b83978a5de76c1d407b/download/Documentaci%C3%B3nScrum-SPRINT-3.doc, https://trello.com/1/cards/6466676aef586c88f3bc957a/attachments/64792b8b1c73def22ad9cae2/download/proyecto_iii_an%C3%A1lisis_de_sistemas_Sprint3.xls, https://trello.com/1/cards/6466676aef586c88f3bc957a/attachments/64792bbedf595f54f5d71209/download/ProductBackLog.xlsx",0,0,0,0,2023-06-01T23:37:39.286Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-22T00:00:00.000Z,1,,
+64659f13d22b83e775ec0d16,Daily scrum meeting 8-05-2023,https://trello.com/c/fajB6JCb/13-daily-scrum-meeting-8-05-2023,"Daily meeting de seguimiento de actividades
+
+- Planeamiento sprint 1
+- Repartir actividades
+- Bloqueantes ?",,"danielsicaja, jmoralesl15, manuelalejandrosazolinares, mariofernandocastanedaperez, pvasquezc",2023-05-09T05:00:00.000Z,1,https://trello.com/1/cards/64659f13d22b83e775ec0d16/attachments/64659fc5f23257dd45e66334/download/Daily_scrum_meeting_1.PNG,0,0,0,0,2023-05-29T23:16:54.065Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-08T14:00:00.000Z,1,Revisar:   * Actividades de planeación * Bloqueantes,
+64659c01642ecb738fe36176,Crear repositorio GIT,https://trello.com/c/oSrAmJWW/12-crear-repositorio-git,Crear repositorio,,jmoralesl15,2023-05-19T04:00:00.000Z,0,,0,0,0,0,2023-05-19T14:25:26.579Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,,1,,
+64659be1e3d6fa22aa9138eb,Login - firebase loguear usuario - BackEnd,https://trello.com/c/PHVr8p13/11-login-firebase-loguear-usuario-backend,Se realizará la conexión de la base de datos hacía el front para guardar datos de usuario,Prioridad 1 (blue),pvasquezc,2023-05-18T05:59:00.000Z,0,,0,0,0,0,2023-05-29T23:06:15.530Z,645fa494dbc011910f6ded96,Doing,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-15T14:00:00.000Z,,Para cumplir esta tarea debe de validar usuario y clave registrados en firebase,
+6462af23bdf07afc96e8e301,Agregar nuevo restaurante - BackEnd,https://trello.com/c/28usAwNZ/10-agregar-nuevo-restaurante-backend,"Agregar nuevo negocio a la base Se agrega nuevo restaurante a la pantalla con los campos
+
+- Descripcion
+- ubicacion
+- nombre de datos como tarjeta.",,"jmoralesl15, pvasquezc",2023-05-24T18:00:00.000Z,0,,0,0,0,0,2023-06-02T04:40:13.117Z,645fa19a1c6a1474b5041915,To do,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,TRUE,2023-05-22T00:00:00.000Z,1,Para que esta tarea se de por completada debe de agregar un restaurante.,
+6462aef9858248d52884236e,Pantalla de transportes - FrontEnd,https://trello.com/c/vm6cVEu5/9-pantalla-de-transportes-frontend,Pantalla que muestra transportes disponibles registrados en la aplicación.,,"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-19T05:59:00.000Z,0,,0,0,0,0,2023-05-30T22:31:45.769Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-17T14:00:00.000Z,1,Esta pantalla debe mostrar los transportes registrados en la aplicación en trarjetas con información de los transportes registrados,
+6462aef01b43079d667eabb3,Página principal MAPA - FrontEnd,https://trello.com/c/zEhH5LM1/8-p%C3%A1gina-principal-mapa-frontend,"Crear la pagina principal , con el mapa de localización de los  negocios, restaurantes, bares, hoteles, transportes",Prioridad 2 (sky_light),"danielsicaja, manuelalejandrosazolinares",2023-05-14T04:00:00.000Z,1,https://trello.com/1/cards/6462aef01b43079d667eabb3/attachments/646850f8aa9f37a48d894d4c/download/msedge_yPmBUyj98Y.png,0,0,0,0,2023-05-29T23:22:26.122Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-08T14:00:00.000Z,1,Este mapa debe cumplir localizar el negocio para agregar.,
+6462ae51a95064d3e864eaf5,Pantalla Tiendas - FrontEnd,https://trello.com/c/2WmFymtu/7-pantalla-tiendas-frontend,"Esta pantalla muestra los bares dentro de la aplicación , con su ubicación , imagen y descripción.",,,2023-05-27T18:00:00.000Z,0,,0,0,0,0,2023-06-01T23:16:34.263Z,645fa494dbc011910f6ded96,Doing,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,TRUE,2023-05-26T00:00:00.000Z,1,"Para considerar aceptada esta tarea , debe verse la pantalla con las tarjetas con su respectiva imagen, descripción y ubicación.",
+6462ae45708290faf4a4760a,Pantalla bares - FrontEnd,https://trello.com/c/jo6CmxLW/6-pantalla-bares-frontend,"Esta pantalla muestra los bares dentro de la aplicación , con su ubicación , imagen y descripción.",,,2023-05-25T18:00:00.000Z,0,,0,0,0,0,2023-06-02T23:43:10.254Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-24T00:00:00.000Z,1,"Para considerar aceptada esta tarea , debe verse la pantalla con las tarjetas con su respectiva imagen, descripción y ubicación.",
+6462ae39b6adca10a28c047c,Pantalla de restaurantes - FrontEnd,https://trello.com/c/G7sqXXQD/5-pantalla-de-restaurantes-frontend,"Pantalla que muestra los negocios registrados a la aplicación , en forma de tarjetas",,"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-18T05:59:00.000Z,0,,0,0,0,0,2023-05-30T22:31:17.276Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-15T14:00:00.000Z,1,Esta pantalla debe mostrar los negocios registrados en la aplicación,
+6462adf64e5d81cc208a1363,Crear Login - Front-End,https://trello.com/c/szv9suB3/4-crear-login-front-end,"Crear pagina de login de usuarios
+
+- Campo de usuario
+- Campo contraseña
+- Agregar CSS
+- Botón para enviar formulario",Prioridad 1 (blue),"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-10T04:00:00.000Z,0,,0,0,0,0,2023-05-29T21:35:25.200Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-08T12:00:00.000Z,1,Crear Pantalla o formulario para loguearse a la aplicación.,
+6462add3fb26e128865e48ca,Pantalla Hoteles - FrontEnd,https://trello.com/c/lpHQyZj3/3-pantalla-hoteles-frontend,"En esta tarea debe agregarse los hoteles disponibles en la aplicación
+
+Campos:
+
+- Nombre del negocio
+- Descripción
+- Ubicación",,"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-23T18:00:00.000Z,0,,0,0,0,0,2023-06-01T23:02:08.001Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-22T00:00:00.000Z,1,"Para tomar esta pantalla como aprobada, debe mostrar los hoteles con imagen  y ubicación.",
+6462adc7eb46a695b46a17c4,Agregar nuevo hotel - BackEnd,https://trello.com/c/46ZvYO1W/2-agregar-nuevo-hotel-backend,Se agrega nuevo hotel a la pantalla con los campos,,"jmoralesl15, pvasquezc",2023-05-26T18:00:00.000Z,0,,0,0,0,0,2023-06-02T04:40:10.123Z,645fa19a1c6a1474b5041915,To do,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,TRUE,2023-05-24T00:00:00.000Z,1,Para que esta tarea se de por completada debe de agregar un hotel.,
+645fa45b78c55456d4ff7d3b,Registrar usuario - FrontEnd,https://trello.com/c/8UlgsjGA/1-registrar-usuario-frontend,"Esta pantalla registra usuarios en el sistema Turiguate
+
+- Campo usuario
+- Contraseña nueva
+- Confirmar Contraseña
+- Botón registrar usuario",,"danielsicaja, manuelalejandrosazolinares, mariofernandocastanedaperez",2023-05-13T05:59:00.000Z,0,,0,0,0,0,2023-05-29T23:25:17.329Z,645fa49a89b1a6f33ab21a04,Done,645fa186a9c8003e606576bd,Proyecto III Análisis de Sistemas,FALSE,2023-05-11T14:00:00.000Z,1,Esta tarea debe ser la pantalla con los campos para registrar un usuario nuevo a la aplicación,
